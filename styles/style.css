@@ -15,5 +15,6 @@ main{
     margin: auto;
     box-shadow: 5px 5px 10px rgb(202, 202, 219);
     background-color: blueviolet;
+    border-radius: 10px;
 }
 
